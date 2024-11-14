@@ -1,0 +1,48 @@
+{
+  "HomePage": {
+    "title": "URL Shortener",
+    "inputMask": {
+      "title": "Enter the URL you want to shorten",
+      "ttl": "TTL (seconds)",
+      "generate": "Generate"
+    },
+    "error": {
+      "url": "Invalid URL",
+      "ttl": "Invalid TTL",
+      "urlRequired": "URL is required",
+      "ttlRequired": "TTL is required",
+      "ttlGreaterThan0": "TTL must be greater than 0"
+    },
+    "outputMask": {
+      "title": "Your shortened URL",
+      "copy": "Copy",
+      "test": "Test"
+    },
+    "toast": {
+      "copy": "Copied to clipboard",
+      "errorCopy": "No URL generated",
+      "postedSuccess": "URL Created Successfully",
+      "errorAdding": "Something went wrong"
+    },
+    "sidebar": {
+      "user": "user input",
+      "admin": "admin overview"
+    },
+    "admin": {
+      "title": "Admin overview",
+      "createdDate": "Created At",
+      "updatedDate": "Updated At",
+      "action": "Action",
+      "delete": "Delete",
+      "edit": "Edit",
+      "cancel": "Cancel",
+      "deleteConfirm": "Are you sure you want to delete this url? This action cannot be undone.",
+      "somethingWentWrong": "Something went wrong",
+      "urlDeleted": "URL Deleted Successfully",
+      "urlUpdated": "URL Updated Successfully",
+      "edited": "Edited",
+      "shortener": "Shortener"
+    }
+
+  }
+}

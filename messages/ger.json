@@ -1,0 +1,47 @@
+{
+  "HomePage": {
+    "title": "URL Verkürzer",
+    "inputMask": {
+      "title": "Geben Sie die URL ein, die Sie verkürzen möchten",
+      "ttl": "TTL (Sekunden)",
+      "generate": "Generieren"
+    },
+    "error": {
+      "url": "Ungültige URL",
+      "ttl": "Ungültige TTL",
+      "urlRequired": "URL ist erforderlich",
+      "ttlRequired": "TTL ist erforderlich",
+      "ttlGreaterThan0": "TTL muss größer als 0 sein"
+    },
+    "outputMask": {
+      "title": "Ihre verkürzte URL",
+      "copy": "Kopieren",
+      "test": "Prüfen"
+    },
+    "toast": {
+      "copy": "In die Zwischenablage kopiert",
+      "errorCopy": "Keine URL generiert",
+      "postedSuccess": "URL erfolgreich erstellt",
+      "errorAdding": "Etwas ist schief gelaufen"
+    },
+    "sidebar": {
+      "user": "Benutzereingabe",
+      "admin": "Adminübersicht"
+    },
+    "admin": {
+      "title": "Admin Übersicht",
+      "createdDate": "Erstellt am",
+      "updatedDate": "Aktualisiert am",
+      "action": "Aktion",
+      "delete": "Löschen",
+      "edit": "Bearbeiten",
+      "cancel": "Abbrechen",
+      "deleteConfirm": "Sind Sie sicher, dass Sie diese URL löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
+      "somethingWentWrong": "Etwas ist schief gelaufen",
+      "urlDeleted": "URL erfolgreich gelöscht",
+      "urlUpdated": "URL erfolgreich aktualisiert",
+      "edited": "Bearbeitet",
+      "shortener": "Verkürzer"
+    }
+  }
+}
